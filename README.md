@@ -1,29 +1,49 @@
-# 👨🏻‍💻 Samuel Ribeiro Desenvolvedor Full Stack
+# Samuel Ribeiro | Desenvolvedor Full Stack 👨🏻‍💻
 
-Olá, sou Samuel Ribeiro, tenho 20 anos e sou natural de Manaus - AM. Atualmente, estudo Engenharia de Software na Fucapi e trabalho com desenvolvimento web. Meu maior foco é o ecossistema .NET, onde busco me especializar e me aprimorar constantemente. Tenho uma grande paixão por tecnologias de desenvolvimento e estou sempre em busca de novas soluções e desafios para aplicar no meu dia a dia como desenvolvedor.
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Ribeiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelzedec/)](https://www.linkedin.com/in/samuelzedec/)
+[![GitHub Badge](https://img.shields.io/badge/-samuelzedec-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/samuelzedec)](https://github.com/samuelzedec)
+[![Gmail Badge](https://img.shields.io/badge/-samuel.ribeiro77f@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel.ribeiro77f@gmail.com)](mailto:samuel.ribeiro77f@gmail.com)
+
+## Sobre mim 🚀
+
+Desenvolvedor Full Stack de 20 anos, natural de Manaus-AM, apaixonado por tecnologia e inovação. Atualmente cursando Engenharia de Software na Fucapi, com foco principal no ecossistema .NET. Busco constantemente aprender e aplicar novas tecnologias para criar soluções robustas e eficientes.
+
+## Tecnologias & Ferramentas 🛠️
+
+### Back-end
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-1C8B94?style=for-the-badge&logo=.net&logoColor=white)
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Estatísticas do GitHub 📊
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelzedec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzedec&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelzedec&theme=tokyonight&hide_border=true"/>
+</div>
+
+## Contribuições 🌱
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelzedec&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="ASP.NET Core" title="ASP.NET Core" width="30px" style="padding-right: 10px;" src="https://voxan.my/wp-content/uploads/2020/04/asp.net_.png" />
-<img align="left" alt="Entity Framework Core" title="Entity Framework Core" width="30px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDx1Gq9OhPHbGCw4K83O6b5jhBHRXmYLeMQ&s" />
-<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="left" alt="Dapper" title="Dapper" width="30px" style="padding-right: 10px;" src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" />
-<img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="TailwindCSS" title="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=samuelzedec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzedec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samuelzedec&color=blue&style=flat-square"/>
+</div>
