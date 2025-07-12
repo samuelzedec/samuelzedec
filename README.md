@@ -23,7 +23,7 @@ Desenvolvedor de Software em startup, especializado no ecossistema .NET e desenv
 `React` `Next.js` `TypeScript` `TailwindCSS` `Vue.js`
 
 **Ferramentas & Práticas**  
-`Git` `Docker` `Azure` `TDD` `DDD` `Princípios SOLID`
+`Git` `Docker` `AWS` `TDD` `DDD` `Princípios SOLID`
 
 ## Estatísticas GitHub
 
