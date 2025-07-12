@@ -25,15 +25,18 @@ Desenvolvedor de Software em startup, especializado no ecossistema .NET e desenv
 **Ferramentas & Práticas**  
 `Git` `Docker` `AWS` `TDD` `DDD` `Princípios SOLID`
 
-## Estatísticas GitHub
+## Projeto em Destaque
 
-<div align="center">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelzedec&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff&title_color=2f3337&text_color=2f3337&icon_color=0366d6)
+### 🍿 [SnackFlow](https://github.com/samuelzedec/snackflow)
+**API para gestão de lanchonetes e pequenos comércios**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzedec&layout=compact&theme=minimal&hide_border=true&bg_color=ffffff&title_color=2f3337&text_color=2f3337)
+- **Backend:** .NET 9, Clean Architecture, CQRS, Entity Framework Core
+- **Database:** PostgreSQL com migrations automatizadas  
+- **API:** RESTful com documentação Swagger/OpenAPI
+- **Testes:** xUnit, FluentAssertions, cobertura 90%+
+- **Qualidade:** Code coverage, testes unitários e de integração
 
-</div>
+*API robusta seguindo princípios DDD e SOLID, com foco em escalabilidade e manutenibilidade.*
 
 ---
 
