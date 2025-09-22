@@ -27,7 +27,7 @@ Desenvolvedor de Software em startup, especializado no ecossistema .NET e desenv
 
 ## Projeto em Destaque
 
-### 🍿 [SnackFlow](https://github.com/samuelzedec/snackflow)
+### 🍿 [Riber](https://github.com/samuelzedec/riber)
 **API para gestão de lanchonetes e pequenos comércios**
 
 - **Backend:** .NET 9, Clean Architecture, CQRS, Entity Framework Core
